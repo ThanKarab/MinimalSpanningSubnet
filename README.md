@@ -1,2 +1,3 @@
-# MinimalSpanningSubnet
-Find the Minimal Spanning Subnet of ips in Python
+# Find the Minimal Spanning Subnet of ips
+
+## Language: Python
